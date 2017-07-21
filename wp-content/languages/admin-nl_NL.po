@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-07-11 08:36:02+0000\n"
+"PO-Revision-Date: 2017-07-18 18:26:58+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2811,7 +2811,7 @@ msgstr ""
 "\n"
 "We hopen dat je veel plezier hebt van je nieuwe site. Bedankt.\n"
 "\n"
-"-- Het WordPress Team\n"
+"-- Het WordPress team\n"
 "https://wordpress.org/\n"
 
 #: wp-admin/install.php:128
@@ -3107,7 +3107,7 @@ msgstr "Insluiten van %s mislukt."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:690
 msgid "The WordPress team is willing to help you. Forward this email to %s and the team will work with you to make sure your site is working."
-msgstr "Het WordPressteam wil graag helpen. Stuur deze e-mail naar %s en het team zal samen met jou ervoor zorgen dat je website werkt."
+msgstr "Het WordPress team wil graag helpen. Stuur deze e-mail naar %s en het team zal samen met jou ervoor zorgen dat je website werkt."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:703
 msgid "If you reach out to us, we'll also ensure you'll never have this problem again."
@@ -3621,7 +3621,7 @@ msgstr "We hebben wat data welke de foutmelding beschrijft die je site net tegen
 
 #: wp-admin/includes/class-wp-automatic-updater.php:712
 msgid "The WordPress Team"
-msgstr "Het WordPressteam"
+msgstr "Het WordPress team"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:708
 msgid "You also have some plugins or themes with updates available. Update them now:"

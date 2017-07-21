@@ -1,0 +1,90 @@
+
+.brozzme-info{
+    background: #fff;
+    border: 1px solid #ccc;
+    width: 60%;
+    min-height: 150px;
+    margin: 0.5% 0.5% 1% 0%;
+    padding: 25px 25px 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.large p{
+    font-size: 1.4em;
+}
+
+@media screen and ( max-width: 1100px ) {
+    .brozzme-info { width: 70%; }
+
+}
+
+@media screen and ( max-width: 600px ) {
+    .brozzme-info { width: 100%; }
+
+}
+#brozzme-theme-panel-form input[type="text"]{
+    padding:8px;
+}
+#brozzme-theme-panel-form input[type="checkbox"], #brozzme-theme-panel-form input[type="radio"]{
+    padding:4px;
+    margin-bottom:2px;
+    width:25px;
+    height: 25px;
+    vertical-align:middle;
+}
+#brozzme-theme-panel-form input[type="checkbox"]:checked, #brozzme-theme-panel-form input[type="radio"]:checked{
+    color:#f7f7f7;
+    padding:4px;
+    margin-bottom:2px;
+    width:25px;
+    height: 25px;
+    vertical-align:middle;
+
+}
+#brozzme-theme-panel-form .form-table input.tog, #brozzme-theme-panel-form .form-table input[type="radio"]{
+    margin-top:0px;
+}
+
+
+#bounds {
+    margin:4px;
+    background-color:#EFEFEF;
+    border-radius:4px;
+    border:1px solid #D0D0D0;
+    overflow:auto;
+    float:left;
+    width:8em
+}
+
+#bounds label {
+    float:left;
+    width:4.0em;
+    color:rgba(0,0,0,0.2);
+}
+
+#bounds label span {
+    text-align:center;
+    padding:10px 0px;
+    display:block;
+}
+
+#bounds label input {
+    position:absolute;
+    top:-20px;
+}
+
+#bounds input:checked + span {
+    background-color:#404040;
+    color:#F7F7F7;
+}
+
+#bounds label.on input:checked + span {
+    background: #127e60;
+    color: #f7f7f7;
+}
+
+#bounds label.off input:checked + span {
+    background: #ce7868;
+    color: #f7f7f7;
+}
+

@@ -2515,7 +2515,7 @@ msgstr "Tijdschuifbalk"
 msgid "Volume Slider"
 msgstr "Volumeschuifbalk"
 
-#: wp-includes/taxonomy.php:1967 wp-includes/taxonomy.php:2593
+#: wp-includes/taxonomy.php:1970 wp-includes/taxonomy.php:2596
 msgid "A name is required for this term."
 msgstr "Een naam is vereist voor deze term."
 
@@ -4585,7 +4585,7 @@ msgstr "Nu installeren"
 msgid "Site Preview"
 msgstr "Sitevoorbeeld"
 
-#: wp-includes/taxonomy.php:3486
+#: wp-includes/taxonomy.php:3489
 msgid "Could not split shared term."
 msgstr "Gedeelde term kon niet gesplitst worden."
 
@@ -4828,7 +4828,7 @@ msgstr "%s moet een databaseconnectie instellen voor het gebruik van 'escaping'.
 msgid "You need to pass an array of types."
 msgstr "Je moet een array van types meegeven."
 
-#: wp-includes/taxonomy.php:2056
+#: wp-includes/taxonomy.php:2059
 msgid "A term with the name provided already exists in this taxonomy."
 msgstr "Een term met deze naam en slug bestaat al in deze taxonomie."
 
@@ -5143,7 +5143,7 @@ msgstr "Bulkselectie"
 
 #. translators: %s: taxonomy label, %l: list of terms formatted as per
 #. $term_template
-#: wp-includes/taxonomy.php:3971
+#: wp-includes/taxonomy.php:3974
 msgid "%s: %l."
 msgstr "%s: %l"
 
@@ -6899,7 +6899,7 @@ msgstr "%1$s %2$s"
 msgid "Insert Media"
 msgstr "Media invoegen"
 
-#: wp-includes/taxonomy.php:2301
+#: wp-includes/taxonomy.php:2304
 msgid "Could not insert term relationship into the database"
 msgstr "Niet mogelijk termrelatie in de database in te voegen"
 
@@ -7113,8 +7113,8 @@ msgstr "Toegestane bestanden"
 #: wp-includes/taxonomy.php:419 wp-includes/taxonomy.php:639
 #: wp-includes/taxonomy.php:730 wp-includes/taxonomy.php:910
 #: wp-includes/taxonomy.php:1074 wp-includes/taxonomy.php:1835
-#: wp-includes/taxonomy.php:1949 wp-includes/taxonomy.php:2212
-#: wp-includes/taxonomy.php:2355 wp-includes/taxonomy.php:2556
+#: wp-includes/taxonomy.php:1952 wp-includes/taxonomy.php:2215
+#: wp-includes/taxonomy.php:2358 wp-includes/taxonomy.php:2559
 msgid "Invalid taxonomy."
 msgstr "Ongeldige taxonomie."
 
@@ -7135,14 +7135,14 @@ msgstr "Je hebt geen toestemming om de termen te wijzigen in deze taxonomie."
 #: wp-includes/class-wp-xmlrpc-server.php:2026
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:405
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:511
-#: wp-includes/taxonomy.php:1973 wp-includes/taxonomy.php:2597
+#: wp-includes/taxonomy.php:1976 wp-includes/taxonomy.php:2600
 msgid "Parent term does not exist."
 msgstr "Hoofdterm bestaat niet."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1455
 #: wp-includes/class-wp-xmlrpc-server.php:2002
 #: wp-includes/class-wp-xmlrpc-server.php:2093
-#: wp-includes/class-wp-xmlrpc-server.php:2165 wp-includes/taxonomy.php:1964
+#: wp-includes/class-wp-xmlrpc-server.php:2165 wp-includes/taxonomy.php:1967
 msgid "Invalid term ID."
 msgstr "Ongeldig term-ID."
 
@@ -8270,7 +8270,7 @@ msgstr "Het ingevulde WordPress-adres is geen geldige URL. Voer een geldige URL 
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
 msgstr "Het ingevoerde e-mailadres blijkt niet een geldig e-mailadres te zijn. Voer een geldig e-mailadres in."
 
-#: wp-includes/taxonomy.php:2053
+#: wp-includes/taxonomy.php:2056
 msgid "A term with the name provided already exists with this parent."
 msgstr "Een term met de opgegeven naam bestaat al met deze hoofdnaam."
 
@@ -9521,12 +9521,12 @@ msgstr "Opslaan&#8230;"
 msgid "Saving Draft&#8230;"
 msgstr "Concept bewaren&#8230;"
 
-#: wp-includes/taxonomy.php:726 wp-includes/taxonomy.php:2569
-#: wp-includes/taxonomy.php:3840
+#: wp-includes/taxonomy.php:726 wp-includes/taxonomy.php:2572
+#: wp-includes/taxonomy.php:3843
 msgid "Empty Term"
 msgstr "Lege term"
 
-#: wp-includes/taxonomy.php:2077
+#: wp-includes/taxonomy.php:2080
 msgid "Could not insert term into the database"
 msgstr "Kan term niet in de database invoegen"
 
@@ -9834,11 +9834,11 @@ msgid "But, before you can start using your new username, <strong>you must activ
 msgstr "Voordat je kunt starten met je nieuwe gebruikersnaam, <strong>moet je deze eerst activeren</strong>."
 
 #. translators: 1: Taxonomy term slug
-#: wp-includes/taxonomy.php:2655
+#: wp-includes/taxonomy.php:2658
 msgid "The slug &#8220;%s&#8221; is already in use by another term"
 msgstr "De slug (permalink) \"%s\" is al in gebruik door een andere term"
 
-#: wp-includes/taxonomy.php:4042
+#: wp-includes/taxonomy.php:4045
 msgid "Invalid object ID"
 msgstr "Ongeldig object-ID"
 
